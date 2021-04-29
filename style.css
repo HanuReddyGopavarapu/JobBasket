@@ -8,7 +8,7 @@
       nav {
         width: 100%;
         display: flex;
-        background-color:rgb(130 130 149);
+        background-color:rgb(144, 145, 201);
         flex-direction: column;
         align-items: center;
         overflow: hidden;
@@ -21,8 +21,9 @@
           
           font-size: 60px;
           font-family: monospace;
-          color: rgb(0, 0, 0);
-          margin-right: 0px;
+          color: rgb(255, 255, 255);
+          text-align: center;
+          padding-top: 150px;
           
          }
 
@@ -41,7 +42,7 @@
         
         max-width: 100%;
         height: 480px;
-        background-image: url('https://images.unsplash.com/photo-1593642634443-44adaa06623a?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1850&q=80');
+        background-image:  url('https://images.pexels.com/photos/2252308/pexels-photo-2252308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
         background-position:center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -57,7 +58,7 @@
     }
     .blocks{
         width: 300px;
-        height: 400px;
+        height: 360px;
         background-color: rgb(144, 145, 201);
         margin: 10px;
         border-radius: 30px;
@@ -80,24 +81,26 @@
       padding: 10px;
       text-align: center;
       margin-top: 20px;
+      font-size: 25px;
     }
 
      button{
        padding: 30px;
-       margin:50px 0px 0px 85px ;
-       background-color: rgb(130, 169, 255);
+       margin:50px 0px 0px 95px ;
+       background-color: rgb(0, 0, 0);
        font-size: 20px;
        border: 2px solid gray;
        border-radius: 25px;
-       font-family: sans-serif;
+       font-family: monospace;
        font-weight: bold;
+       color: white;
     } 
     .more{
-        margin: 150px 0px 0px 85px;
+        margin: 150px 0px 0px 95px;
     }
     .footr{
       width: 100%;
-      height: 250px;
+      height: 300px;
       background-color: rgb(0, 0, 0);
     }
     .footr h2{
@@ -110,6 +113,8 @@
     .footr p{
       color: white;
       text-align: center;
+      padding-top: 15px;
+      font-size: 20px;
       padding: 5px;
     }
     .footr a:hover{
@@ -118,7 +123,8 @@
     .footr h5{
       color: gray;
       text-align: center;
-      padding: 20px;
+      padding: 10px;
+      font-size: 15px;
     }
         
         
@@ -127,7 +133,7 @@
         
        
       
-      /* @media screen and (min-width: 415px) {
+       /* @media screen and (min-width: 415px) {
         nav {
           flex-direction: row;
           justify-content: space-between;
@@ -136,8 +142,9 @@
           flex-direction: row;
           justify-content: center;
         }
+       
         
-      } */
+      }  */
       /* @media screen and (min-width: 1688px) {
 
        .blocks img{
