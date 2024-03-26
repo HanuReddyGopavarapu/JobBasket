@@ -1,8 +1,8 @@
 #JobBasket
 
-https://hanumanthreddygopavarapu.github.io/JobBasket/
+https://hanureddygopavarapu.github.io/JobBasket/
 
-Our mission at JobNet is to match job searchers with opportunities across a range of industries, including software, the public sector, and the private sector. We can help if you work as a software developer, QA tester, government employee, or are looking for work in the private sector.
+Our mission at JobNet is to match job searchers with opportunities across a range of industries, including software, the public sector, and the private sector. We can help if you work as a software developer, QA tester, or government employee, or are looking for work in the private sector.
 
 Features
 Job Listings: Browse through a wide range of job opportunities posted by employers.
